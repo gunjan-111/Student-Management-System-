@@ -20,7 +20,7 @@ A full-stack Student Management System built with **React**, **Node.js (Express)
 
 ## Student
 
-![Student](screenshots/Student.png)
+![Student](screenshots/student.png)
 > 
 
 ---
